@@ -192,6 +192,7 @@ bbb
 - [Alexandre Kojève](https://t.me/Enkelte_notif/784)
 - [eooce](https://github.com/eooce/Cloudflare-proxy)
 - [Sukka](https://ip.skk.moe/)
+- [zhangtaile](https://github.com/cmliu/edgetunnel/pull/999)
 
 ---
 
